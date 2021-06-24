@@ -1,6 +1,10 @@
 # wstock_v5
 Upgrade based on wstock，支持最新V5版本接口，兼容V4
 
+### install 
+```bash
+npm install wstock_v5 -g
+```
 
 ## news
 Upgrade based on [wstock](https://github.com/hellopao/wstock)
@@ -17,20 +21,20 @@ wstock list5
 如有版权侵犯，请联系我，立马删，绝不马虎
 <hr>
 
+安装
+```bash
+npm install wstock_v5 -g
+```
+
 show没改，因为我不用呀~~~啊哈哈哈哈
 
-最新版本使用，支持原来的参数
+最新版本使用，支持原来的参数，其他的我都没改，老功能依旧可以使用
 ```shell script
 wstock list5
 ```
 
 ## wstock
  a cmd tool for watching stock
-
-### install 
-```bash
-npm install wstock -g
-```
 
 ### usage
 - `wstock list`
